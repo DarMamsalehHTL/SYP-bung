@@ -1,4 +1,4 @@
 # SYP-bung
 Yurr
 gurt
-lecken
+lecke
